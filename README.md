@@ -38,3 +38,4 @@ mvn exec:java -Dexec.mainClass=io.sriki.Main
 ```
 - If required, change the permission of startup script file.
 
+Testing git rebase
